@@ -1,7 +1,0 @@
-Hello Git modified
-HELLO AGAIN AND AGAIN
-TEST0
-TEST
-TEST2
-TEST3
-test4
