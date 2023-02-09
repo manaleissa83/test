@@ -1,2 +1,5 @@
 Hello Git modified
 HELLO AGAIN AND AGAIN
+TEST
+TEST2
+TEST3
